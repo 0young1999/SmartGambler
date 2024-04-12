@@ -1,8 +1,8 @@
 namespace SmartGambler
 {
-	public partial class Form1 : Form
+	public partial class SamrtGambler : Form
 	{
-		public Form1()
+		public SamrtGambler()
 		{
 			InitializeComponent();
 		}

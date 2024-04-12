@@ -1,6 +1,6 @@
 ﻿namespace SmartGambler
 {
-	partial class Form1
+	partial class SamrtGambler
 	{
 		/// <summary>
 		///  Required designer variable.
